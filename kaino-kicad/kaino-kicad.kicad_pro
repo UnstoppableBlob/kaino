@@ -54,7 +54,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|19942500|22066250|2ff485af-fe21-454f-9fa6-6bbec90d5a47|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -508,7 +513,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/rjv/Programming/hackclub/kaino/kaino/gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
