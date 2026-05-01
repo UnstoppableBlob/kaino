@@ -28,6 +28,10 @@ I made the schematic and PCB in Kicad, which is my prefered software for this ty
 
 ![alt text](renders/Full_render2.png)
 
+## Render #4
+
+![alt text](image.png)
+
 
 ## BOM
 
